@@ -6,7 +6,7 @@
 pnpx gitpick ithacaxyz/porto/tree/main/examples/sponsoring-next.js porto-sponsoring && cd porto-sponsoring
 ```
 
-## 2. Onboard Merchant (Sponsor) Account
+## 2. Onboard Merchant (Sponsor) Account.
 
 Run the following command to onboard a new Porto Merchant (Sponsor) Account.
 
